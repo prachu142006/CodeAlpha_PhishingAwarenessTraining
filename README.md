@@ -11,5 +11,4 @@ To educate users about phishing attacks and prevention techniques.
 
 ## Files
 - Presentation
-- Report
-- Screenshots
+
